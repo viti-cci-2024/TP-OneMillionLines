@@ -3,15 +3,16 @@ __________________________________
 
 - Le site est responsive et comprend les breakpoints suivants : 
   1199px, 991px, et 767
+  Utilisation des media queries.
 
 - Les images n'ont pas été altérées et sont bien les images d'origine fournies
   pour la réalisation de l'exercice.
 
 - Prise en compte de l'accessibilité avec le gestion des balises Aria 
-  (score Accessibility de 95% avec GoogleLighthouse)
+  (score Accessibility de 95% avec Google Lighthouse)
 
 - SEO-Friendly
-  (score SEO de 100% avec GoogleLighthouse)
+  (score SEO de 100% avec Google Lighthouse)
 
 - Validation de votre code sur la w3c (HTML + CSS)
   Le code a entièrement été validé sur https://validator.w3.org
@@ -29,7 +30,7 @@ ________________________________________________________________________________
 TP for the CCI - One Million Lines
 
 - The site is responsive and includes the following breakpoints:
-  1199px, 991px, and 767px.
+  1199px, 991px, and 767px. Use of media queries
 
 - The images have not been altered and are the original ones provided
   for the completion of the exercise.
